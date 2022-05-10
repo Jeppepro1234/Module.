@@ -1,1 +1,1 @@
-# Module.
+This is a fast module installer, you just have to type in the name of the module and then hit enter adn the program will install it for you. You dont have to type pip install you module. So this program makes it easyer and faster to install python modules.
